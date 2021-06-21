@@ -1,67 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patasi Carbon Frame Repairs</title>
-    <link>/</link>
-    <description>Recent content on Patasi Carbon Frame Repairs</description>
+    <title>Notice on Patasi Carbon Frame Repairs</title>
+    <link>/testemonials.html</link>
+    <description>Recent content in Notice on Patasi Carbon Frame Repairs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by Patasi Carbon</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-1.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-1.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-2.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-2.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-3.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-3.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-4.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-4.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-5.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-5.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>/services/event-6.html</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>/services/event-6.html</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/testemonials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Materials and Testing Methods</title>
       <link>/testemonials/notice-1.html</link>
