@@ -1,6 +1,10 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+baseURL = ""
+relativeURLs = true
+uglyURLs = true
+canonifyURLs = true
+
+title = "Patasi Carbon Bike Frames Repair"
 theme = "educenter-hugo"
 themesDir = "themes"
 # post pagination
